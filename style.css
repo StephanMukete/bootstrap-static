@@ -117,6 +117,10 @@ hr.light-100{
   margin-bottom: 1rem;
 }
 
+h1.display-2{
+  font-size: 4rem
+}
+
 
 /*---Firefox Bug Fix --*/
 .carousel-item {
